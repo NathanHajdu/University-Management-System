@@ -1,7 +1,5 @@
 # University System
 
-![University System Logo](university_system_logo.png)
-
 University System is a Windows Forms application designed for managing student and instructor data within a university. It provides a user-friendly interface to access, search, and display information about students and instructors.
 
 ## Features
@@ -9,8 +7,6 @@ University System is a Windows Forms application designed for managing student a
 ### Main Form
 
 The Main Form serves as the landing page for the University System. It allows users to navigate to the Student and Instructor directories with the click of a button. The form is centered on initialization.
-
-![Main Form](screenshots/main_form.png)
 
 ### Student Directory Form
 
@@ -29,8 +25,6 @@ A dynamic label above the grid shows the student's name based on the search. The
 
 Validation is in place to handle empty SID fields and incorrect SIDs.
 
-![Student Directory Form](screenshots/student_form.png)
-
 ### Instructor Directory Form
 
 The Instructor Directory Form operates similarly to the Student Directory. Users can search for instructors by Instructor ID (IID). Upon a valid IID entry, the form displays a table with the following instructor details:
@@ -43,8 +37,6 @@ The Instructor Directory Form operates similarly to the Student Directory. Users
 - Semester
 
 The form also includes options to go back to the Main Form and reset the form fields.
-
-![Instructor Directory Form](screenshots/instructor_form.png)
 
 ## Usage
 
